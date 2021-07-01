@@ -1,0 +1,12 @@
+[requires]
+boost/1.76.0
+glfw/3.3.4
+imgui/1.83
+spdlog/1.6.1
+glew/2.2.0
+fmt/6.2.0
+cairo/1.17.4
+caf/0.18.2 # C++ Actor Framework
+
+[generators]
+cmake
